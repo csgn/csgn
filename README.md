@@ -14,9 +14,9 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40" align="left" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=async4&layout=compact&hide=html" alt="async4" />
 </p>
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=async4&layout=compact&hide=html" alt="async4" />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=async4&show_icons=true" alt="async4" /></p>
 
 <p align="center">
