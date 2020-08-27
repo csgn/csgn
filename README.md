@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sergen < Async ></h1>
 <h3 align="center">STAY HUNGRY, STAY FOOLISH</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=async4" alt="async4" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=async4" alt="async4" /> </p>
 
-- 🤔 I’m currently learning **python | c++ | data structures | oop | math | web**
-
-- ❤️ **VIM**
-
-<p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+<p align="center">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40" align="left" />  
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+
 </p>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=async4&layout=compact&hide=html" alt="async4" />
