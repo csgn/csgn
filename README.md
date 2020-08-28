@@ -31,7 +31,7 @@
 
 </p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=async4&layout=compact&hide=html" alt="async4" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=async4&hide=html" alt="async4" />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=async4&show_icons=true" alt="async4" /></p>
 
 <p align="center">
