@@ -39,3 +39,5 @@
 <a href="https://stackoverflow.com/users/13956749/async" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13956749/async" height="30" width="30" /></a>
 <a href="https://kaggle.com/asyncc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="asyncc" height="30" width="30" /></a>
 </p>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
