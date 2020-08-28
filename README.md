@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm < Async /></h1>
-# ___________________________________________________
+---------------------
 <h6 align="center">Beautiful is better than ugly.</h6>
 <h6 align="center">Explicit is better than implicit.</h6>
 <h6 align="center">Simple is better than complex.</h6>
