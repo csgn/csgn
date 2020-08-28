@@ -1,5 +1,23 @@
 <h1 align="center">Hi 👋, I'm Sergen < Async ></h1>
-<h3 align="center">STAY HUNGRY, STAY FOOLISH</h3>
+<h4 align="center">Beautiful is better than ugly.</h4>
+<h4 align="center">Explicit is better than implicit.</h4>
+<h4 align="center">Simple is better than complex.</h4>
+<h4 align="center">Flat is better than nested.</h4>
+<h4 align="center">Sparse is better than dense.</h4>
+<h4 align="center">Readability counts.</h4>
+<h4 align="center">Special cases aren't special enough to break the rules.</h4>
+<h4 align="center">Although practicality beats purity.</h4>
+<h4 align="center">Errors should never pass silently.</h4>
+<h4 align="center">Unless explicitly silenced.</h4>
+<h4 align="center">In the face of ambiguity, refuse the temptation to guess.</h4>
+<h4 align="center">There should be one-- and preferably only one --obvious way to do it.</h4>
+<h4 align="center">Although that way may not be obvious at first unless you're Dutch.</h4>
+<h4 align="center">Now is better than never.</h4>
+<h4 align="center">Although never is often better than *right* now.</h4>
+<h4 align="center">If the implementation is hard to explain, it's a bad idea.</h4>
+<h4 align="center">If the implementation is easy to explain, it may be a good idea.</h4>
+<h4 align="center">Namespaces are one honking great idea -- let's do more of those!</h4>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=async4" alt="async4" /> </p>
 
