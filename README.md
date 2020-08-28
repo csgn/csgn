@@ -17,7 +17,7 @@
 
 </p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=async4&hide=html&theme=buefy&gradient=true" alt="async4" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=async4&hide=html&theme=dark&gradient=true" alt="async4" />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=async4&show_icons=true&theme=buefy" alt="async4" /></p>
 
 <p align="center">
