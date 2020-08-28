@@ -5,20 +5,6 @@
 <h6 align="center">Simple is better than complex.</h6>
 <h6 align="center">Flat is better than nested.</h6>
 <h6 align="center">Sparse is better than dense.</h6>
-<h6 align="center">Readability counts.</h6>
-<h6 align="center">Special cases aren't special enough to break the rules.</h6>
-<h6 align="center">Although practicality beats purity.</h6>
-<h6 align="center">Errors should never pass silently.</h6>
-<h6 align="center">Unless explicitly silenced.</h6>
-<h6 align="center">In the face of ambiguity, refuse the temptation to guess.</h6>
-<h6 align="center">There should be one-- and preferably only one --obvious way to do it.</h6>
-<h6 align="center">Although that way may not be obvious at first unless you're Dutch.</h6>
-<h6 align="center">Now is better than never.</h6>
-<h6 align="center">Although never is often better than *right* now.</h6>
-<h6 align="center">If the implementation is hard to explain, it's a bad idea.</h6>
-<h6 align="center">If the implementation is easy to explain, it may be a good idea.</h6>
-<h6 align="center">Namespaces are one honking great idea -- let's do more of those!</h6>
-
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=async4" alt="async4" /> </p>
 
