@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Async</h1>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/async4/async4/master/40704052.jpg" />
+</p>
+
 <h6 align="center">Beautiful is better than ugly.</h6>
 <h6 align="center">Explicit is better than implicit.</h6>
 <h6 align="center">Simple is better than complex.</h6>
