@@ -6,8 +6,6 @@
 
 <h3 align="center">stay hungry, stay foolish</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=async4" alt="async4" /> </p>
-
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
   <img src="https://devicons.github.io/devicon/devicon.git/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/>
