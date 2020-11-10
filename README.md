@@ -1,7 +1,3 @@
-<h1 align="center">Hi 👋, I'm Async</h1>
-
-<h3 align="center">stay hungry, stay foolish</h3>
-
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
   <img src="https://devicons.github.io/devicon/devicon.git/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/>
