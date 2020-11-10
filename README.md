@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Async</h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/async4/async4/master/40704052.jpg" />
-</p>
-
 <h3 align="center">stay hungry, stay foolish</h3>
 
 <p align="center">
