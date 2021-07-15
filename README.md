@@ -1,4 +1,4 @@
 
 <div align="center">
-<img src="pacman_PNG21.png"></img>
+<img src="pac.png"></img>
 </div>
