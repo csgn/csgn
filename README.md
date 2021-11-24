@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-#### I'm a student that's it
+#### I'm a student.... that's it
