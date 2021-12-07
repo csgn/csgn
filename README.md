@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-#### I'm a student.... that's it ¯\\_(ツ)_/¯
+#### I'm a normal person.... that's it ¯\\_(ツ)_/¯
