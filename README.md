@@ -10,4 +10,4 @@
 
 ### ```❤️ interested in```
 
-```Linux```  | ```Python```   | ```Postgres```  |   ```Pandas```  |  ```PySpark```   |  ```Vim```   |  ```React```  |   ```Docker```
+```Linux```  | ```Python```   | ```Postgres```  |  ```Cassandra```  |   ```Pandas```  |  ```PySpark```   |  ```Vim```   |  ```React```  |   ```Docker```
