@@ -12,5 +12,5 @@
 ![Pandas](https://img.shields.io/badge/Pandas-e70488?style=for-the-badge&logo=pandas&logoColor=fff)
 ![PySpark](https://img.shields.io/badge/PYSPARK-e25a1c?style=for-the-badge&logo=apache-spark&logoColor=fff)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-333?style=for-the-badge&logo=react&logoColor=61dbfb)
+![React](https://img.shields.io/badge/React-333?style=for-the-badge&logo=react&logoColor=61dbfb)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
