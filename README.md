@@ -10,6 +10,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-e70488?style=for-the-badge&logo=pandas&logoColor=fff)
+![PySpark](https://img.shields.io/badge/PYSPARK-e25a1c?style=for-the-badge&logo=apache-spark&logoColor=fff)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-333?style=for-the-badge&logo=react&logoColor=61dbfb)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
