@@ -5,4 +5,4 @@
 ``` 🤙 ```
 
 
-```Linux```   ```Python```    ```Postgres```    ```Cassandra```    ```Pandas```   ```PySpark```    ```Vim```    ```React```    ```Docker``` ``` ❤️ ```
+```Linux```   ```Python```  ```Scala```  ```Postgres```    ```Cassandra```    ```Pandas```   ```PySpark```    ```Vim```    ```React```    ```Docker``` ``` ❤️ ```
