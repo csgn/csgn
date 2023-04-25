@@ -5,4 +5,4 @@
 ``` 🤙 ```
 
 
-```Linux```   ```Python```   ```Postgres```     ```Pandas```   ```PySpark```    ```Vim```    ```React```    ```Docker```   ```Rust``` ``` ❤️ ```
+```just C``` ``` ❤️ ```
