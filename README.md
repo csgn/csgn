@@ -2,6 +2,7 @@
 
 [```linkedin```](https://www.linkedin.com/in/sergencepoglu/)
 [```gmail```](mailto:dev.csgn@gmail.com)
+[```cv```](https://csgn.github.io/public-cv/)
 ``` 🤙 ```
 
 ## My Notes
