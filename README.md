@@ -2,7 +2,7 @@
 
 [```linkedin```](https://www.linkedin.com/in/sergencepoglu/)
 [```gmail```](mailto:dev.csgn@gmail.com)
-[```cv```](https://csgn.github.io/public-cv/)
+[```cv```](https://shadowed-fold-d15.notion.site/Sergen-epo-lu-ad935aae28b44eefa8a79bde0d575c3f)
 ``` 🤙 ```
 
 ## My Notes
