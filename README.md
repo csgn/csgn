@@ -7,7 +7,7 @@
 ``` 🤙 ```
 
 ## Trying to
-I am developing minimal functional libraries and a functional programming language.
+I am developing minimal functional libraries and a functional programming language. (I think it'll take too long...)
 
 😼 [kattulib](https://github.com/kattulib)
 
