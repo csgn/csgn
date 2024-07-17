@@ -6,7 +6,7 @@
 [```gmail```](mailto:dev.csgn@gmail.com)
 ``` 🤙 ```
 
-## Trying to
+## Developing
 I am developing minimal functional libraries and a functional programming language. (I think it'll take too long...)
 
 😼 [kattulib](https://github.com/kattulib)
