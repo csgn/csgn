@@ -7,11 +7,11 @@
 ``` 🤙 ```
 
 ## Developing
-I am developing minimal functional libraries and a functional programming language. (I think it'll take too long...)
+I am developing minimal functional libraries for Scala 
+## → 😼 [kattulib](https://github.com/kattulib)
 
-😼 [kattulib](https://github.com/kattulib)
-
-λ [arflang](https://github.com/arflang)
+and a functional programming language. (but it'll take toooo long... :) )
+## → λ [arflang](https://github.com/arflang)
 
 ## My Notes
 [Functional Programming](https://shadowed-fold-d15.notion.site/c7a94bd78e874da88bb19563056114ae?v=ae95ed31a3d64b95bf33edda6053be4e&pvs=4)
