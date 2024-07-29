@@ -13,10 +13,6 @@ I am developing minimal functional libraries for ```Scala```
 
 → 😼 [kattulib](https://github.com/kattulib)
 
-and a functional programming language. ***(but it'll take toooo long... :) )***
-
-→ λ [arflang](https://github.com/arflang)
-
 ## Developing
 
 
