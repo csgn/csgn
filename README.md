@@ -11,7 +11,7 @@
 
 I am developing minimal functional libraries for ```Scala``` 
 
-→ 😼 [kattulib](https://github.com/kattulib)
+→ 😼 [lamdalib](https://github.com/lamdalib)
 
 ## Developing
 
