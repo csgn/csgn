@@ -7,10 +7,3 @@
 ``` 🤙 ```
 
 ## Contact
-
-
-I am developing minimal functional libraries for ```Scala``` 
-
-→ λ [lamdalib](https://github.com/lamdalib)
-
-## Developing
