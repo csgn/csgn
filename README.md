@@ -6,7 +6,7 @@
 [```gmail```](mailto:dev.csgn@gmail.com)
 ``` 🤙 ```
 
-# Pinned Projects
+## Pinned Projects
 [`csgn/lamode.dev`](https://github.com/csgn/lamode.dev) 
 [`csgn/lamda`](https://github.com/csgn/lamda) 
 [`csgn/pipo`](https://github.com/csgn/pipo) 
