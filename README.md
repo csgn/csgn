@@ -7,7 +7,7 @@
 ``` 🤙 ```
 
 ## Pinned Projects
-[`csgn/lamode.dev`](https://github.com/csgn/lamode.dev) 
+[`csgn/kliq`](https://github.com/csgn/kliq) 
 [`csgn/lamda`](https://github.com/csgn/lamda) 
 [`csgn/pipo`](https://github.com/csgn/pipo) 
 [`csgn/rassal`](https://github.com/csgn/rassal)
