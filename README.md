@@ -28,7 +28,7 @@
   Screen annotation tool on Linux.
 
 - [`csgn/clido`](https://github.com/csgn/clido):
-  Q&A and polling platform (Slido clone).
+  Q&A platform (Slido clone).
   
 - [`csgn/mocommender`](https://github.com/csgn/mocommender):
   Movie recommender.
